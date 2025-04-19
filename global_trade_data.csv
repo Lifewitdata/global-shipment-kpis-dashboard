@@ -1,0 +1,26 @@
+shipment_id,shipment_date,shipment_delay,cost_per_unit,origin_country,destination_country,status
+SHP001,2022-01-01,3,150,USA,China,Delivered
+SHP002,2022-01-02,5,200,USA,Germany,In Transit
+SHP003,2022-01-03,7,180,China,USA,Delivered
+SHP004,2022-01-04,2,160,Germany,USA,Delivered
+SHP005,2022-01-05,8,220,India,USA,Delayed
+SHP006,2022-01-06,4,170,USA,India,Delivered
+SHP007,2022-01-07,6,190,China,Germany,Delivered
+SHP008,2022-01-08,10,250,Germany,China,In Transit
+SHP009,2022-01-09,3,140,USA,UK,Delivered
+SHP010,2022-01-10,5,180,UK,USA,In Transit
+SHP011,2022-01-11,7,200,China,UK,Delivered
+SHP012,2022-01-12,2,150,UK,China,Delivered
+SHP013,2022-01-13,8,230,India,Germany,Delayed
+SHP014,2022-01-14,4,160,Germany,India,Delivered
+SHP015,2022-01-15,6,180,USA,India,Delivered
+SHP016,2022-01-16,10,240,China,USA,In Transit
+SHP017,2022-01-17,3,140,USA,China,Delivered
+SHP018,2022-01-18,5,180,Germany,USA,In Transit
+SHP019,2022-01-19,7,200,China,Germany,Delivered
+SHP020,2022-01-20,2,150,USA,UK,Delivered
+SHP021,2022-01-21,8,230,UK,USA,Delayed
+SHP022,2022-01-22,4,160,India,Germany,Delivered
+SHP023,2022-01-23,6,180,Germany,India,Delivered
+SHP024,2022-01-24,10,240,USA,China,In Transit
+SHP025,2022-01-25,3,140,China,USA,Delivered
